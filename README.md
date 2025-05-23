@@ -36,8 +36,3 @@ This repository hosts the complete project work on the design, analysis, and tes
 | Natural Frequency| ~2.88 Hz    | ~2.50 Hz |
 | Damping Ratio    | 1.95%       | 3.77%    |
 | Stabilization Time (Sim.) | >3.0 sec | 2.6 sec |
-
----
-
-## Repository Structure
-
